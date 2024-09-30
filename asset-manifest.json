@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Takai-Shino/static/css/main.66d80959.css",
-    "main.js": "/Takai-Shino/static/js/main.a35d1ae1.js",
+    "main.js": "/Takai-Shino/static/js/main.9f12d56b.js",
     "static/js/453.62f4443f.chunk.js": "/Takai-Shino/static/js/453.62f4443f.chunk.js",
     "static/media/logo-lg.png": "/Takai-Shino/static/media/logo-lg.59ca504fad4bddbe3416.png",
     "static/media/OpenSans-Light.ttf": "/Takai-Shino/static/media/OpenSans-Light.9405e3d0d19c1cf91bad.ttf",
@@ -9,11 +9,11 @@
     "static/media/uber.png": "/Takai-Shino/static/media/uber.73a61adbea97b17d5473.png",
     "index.html": "/Takai-Shino/index.html",
     "main.66d80959.css.map": "/Takai-Shino/static/css/main.66d80959.css.map",
-    "main.a35d1ae1.js.map": "/Takai-Shino/static/js/main.a35d1ae1.js.map",
+    "main.9f12d56b.js.map": "/Takai-Shino/static/js/main.9f12d56b.js.map",
     "453.62f4443f.chunk.js.map": "/Takai-Shino/static/js/453.62f4443f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.66d80959.css",
-    "static/js/main.a35d1ae1.js"
+    "static/js/main.9f12d56b.js"
   ]
 }
